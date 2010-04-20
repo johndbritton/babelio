@@ -1,0 +1,6 @@
+username: <Twilio Account SID>
+password: <Twilio Auth Token>
+twilio_baseurl: api.twilio.com/2008-08-01/Accounts/<Twilio Account SID>
+translate_baseurl: http://ajax.googleapis.com/ajax/services/language/translate
+translate_version: 1.0
+translate_langpair: en|nl
